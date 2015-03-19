@@ -1,5 +1,7 @@
 # learning-go-lang
 
+This training kit has been developed for those who already have the basic knowledge of C/C++ and Programming; This training kit will teach you the basics of Go programming language.
+
 ## Contributors
 
 Developed &amp; maintained by author: **Ashwin Hegde**<br/>
