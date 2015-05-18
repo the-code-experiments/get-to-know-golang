@@ -2,6 +2,18 @@
 
 This training kit has been developed for those who already have the basic knowledge of Programming; This training kit will teach you the basics of Go programming language.
 
+## Table of content
+
+* Session 1: Introduction to Go & development environment.
+* Session 2: Variables, Types, Pointers and Constants.
+* Session 3: Functions.
+* Session 4: Branching & Loops.
+* Session 5: Maps, Slices.
+* Session 6: Methods & Interface.
+* Session 7: Concurrency.
+* Session 8: Web Application.
+* Session 9: Introduction to Martini - Go web framework.
+
 ## Author & Contributors
 
 Developed &amp; maintained by author: Ashwin Hegde
