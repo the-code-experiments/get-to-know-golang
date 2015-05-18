@@ -1,19 +1,21 @@
 # learning-go-lang
 
-This training kit has been developed for those who already have the basic knowledge of C/C++ and Programming; This training kit will teach you the basics of Go programming language.
+This training kit has been developed for those who already have the basic knowledge of Programming; This training kit will teach you the basics of Go programming language.
 
-## Contributors
+## Author & Contributors
 
-Developed &amp; maintained by author: **Ashwin Hegde**<br/>
-Follow me at: <a href="https://github.com/hegdeashwin" target="_blank">github</a> | <a href="http://in.linkedin.com/in/hegdeashwin" target="_blank">Linkedin</a> | <a href="https://twitter.com/hegdeashwin3" target="_blank">Twitter</a>
+Developed &amp; maintained by author: Ashwin Hegde
 
-We really appreciate all kind of feedback and contributions. Thanks for using and supporting this project: 
-<a href="//github.com/hegdeashwin/learning-go-lang/graphs/contributors" target="_blank">contributors</a>
+Follow me at: [github](https://github.com/hegdeashwin) | [Linkedin](http://in.linkedin.com/in/hegdeashwin) | [Twitter](https://twitter.com/hegdeashwin3)
+
+We really appreciate all kind of contributions. Special thanks to <a href="//github.com/hegdeashwin/learning-go-lang/graphs/contributors" target="_blank">contributors</a> for using and supporting learning-go-lang.
 
 To request a feature or you find any typo errors, enhancements or questions; please feel free to post it on following link, or vote for the ones that are already registered.
-<br>Tracking: <a href="https://github.com/hegdeashwin/learning-go-lang/issues" target="_blank">https://github.com/hegdeashwin/learning-go-lang/issues</a>
 
+Tracking: [https://github.com/hegdeashwin/learning-go-lang/issues](https://github.com/hegdeashwin/learning-go-lang/issues)
 
 ## License
 
-The MIT License (MIT); Copyright (c) 2015 Ashwin Hegde
+The MIT License (MIT); 
+
+Copyright (c) 2015 Ashwin Hegde
