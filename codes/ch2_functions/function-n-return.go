@@ -30,10 +30,20 @@ func CreateMessage(name, username, message string) (string, string) {
  * Define a Greeting function;
  */
 func Greeting(github Profile) {
+	
+
 	welcome, info := CreateMessage(github.name, github.username, github.message)
 
-	fmt.Println(welcome)	// Commenting this line would throw an error "welcome declared and not used"
+	/**
+	 * Commenting exact below "Println(welcome) line would throw an error "welcome declared and not used"
+	 * In case you want to ignore the welcome declaration and use info => replace welcome with _ as below syntax
+	 *
+	 * E.g. _, info := CreateMessage(github.name, github.username, github.message)
+	 */
+	fmt.Println(welcome)
 	fmt.Println(info)
+
+	// fmt.Println(_)  // Cannot use _ as value
 }
 
 func main() {
