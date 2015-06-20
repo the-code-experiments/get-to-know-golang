@@ -21,6 +21,8 @@ func main() {
 	/**
 	 * Declare a variable with string type and assign a string value to it;
 	 * Type is optional.
+	 * 
+	 * Note: Declaring variable and do not use is an error in Go
 	 */
 	var message string
 	message = "Welcome to Go World!"
