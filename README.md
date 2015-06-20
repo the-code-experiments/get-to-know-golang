@@ -4,21 +4,15 @@ This training kit has been developed for those who already have the basic knowle
 
 ## Table of content
 
-* Session 1: Introduction to Go & development environment.
-* Session 2: Variables, Types, Pointers and Constants.
-* Session 3: Functions.
-* Session 4: Branching & Loops.
-* Session 5: Maps, Slices.
-* Session 6: Methods & Interface.
-* Session 7: Concurrency.
-* Session 8: Web Application.
-* Session 9: Introduction to Martini - Go web framework.
+* Introduction to Go & development environment.
+* Session 1: Variables, Types, Pointers and Constants.
+* Session 2: Functions.
+* Session 3: Branching & Loops.
+* Session 4: Maps, Slices.
+* Session 5: Methods & Interface.
+* Session 6: Concurrency.
 
-## Author & Contributors
-
-Developed &amp; maintained by author: Ashwin Hegde
-
-Follow me at: [github](https://github.com/hegdeashwin) | [Linkedin](http://in.linkedin.com/in/hegdeashwin) | [Twitter](https://twitter.com/hegdeashwin3)
+## Contributors
 
 We really appreciate all kind of contributions. Special thanks to <a href="//github.com/hegdeashwin/learning-go-lang/graphs/contributors" target="_blank">contributors</a> for using and supporting learning-go-lang.
 
