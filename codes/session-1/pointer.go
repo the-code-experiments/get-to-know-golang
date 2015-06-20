@@ -27,6 +27,14 @@ func main() {
 	/**
 	 * Print value of greeting
 	 */
-
 	fmt.Println(*greeting)
+
+	/**
+	 * Change pointer value, also change message value
+	 */
+	*greeting = "Welcome to the Go world!"
+
+	fmt.Println(message);
+
+	fmt.Println(*greeting);
 }
