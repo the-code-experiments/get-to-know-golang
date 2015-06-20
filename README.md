@@ -4,7 +4,7 @@ This training kit has been developed for those who already have the basic knowle
 
 ## Table of content
 
-* Introduction to Go & development environment.
+* Introduction to Go & development environment. Visit: http://slides.com/ashwinhegde/learn-go-lang/fullscreen
 * Session 1: Variables, Types, Pointers and Constants.
 * Session 2: Functions.
 * Session 3: Branching & Loops.
@@ -12,7 +12,7 @@ This training kit has been developed for those who already have the basic knowle
 * Session 5: Methods & Interface.
 * Session 6: Concurrency.
 
-## Contributors
+## Author & Contributors
 
 We really appreciate all kind of contributions. Special thanks to <a href="//github.com/hegdeashwin/learning-go-lang/graphs/contributors" target="_blank">contributors</a> for using and supporting learning-go-lang.
 
