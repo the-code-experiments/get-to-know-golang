@@ -1,6 +1,6 @@
-# learning-go-lang
+# Go Syntax Reference
 
-This training kit has been developed wants know about the basics of Go programming language.
+A complete training kit on Go programming language syntax for beginners.
 
 ## Table of content
 
@@ -18,7 +18,7 @@ We really appreciate all kind of contributions. Special thanks to <a href="//git
 
 To request a feature or you find any typo errors, enhancements or questions; please feel free to post it on following link, or vote for the ones that are already registered.
 
-Tracking: [https://github.com/Code-by-practice/learning-go-lang/issues](https://github.com/Code-by-practice/learning-go-lang/issues)
+Tracking: [https://github.com/Code-by-practice/go-syntax-referenceissues](https://github.com/Code-by-practice/go-syntax-reference/issues)
 
 ## License
 
