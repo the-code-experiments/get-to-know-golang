@@ -14,11 +14,16 @@ A complete training kit on Go programming language syntax for beginners.
 
 ## Author & Contributors
 
-We really appreciate all kind of contributions. Special thanks to <a href="//github.com/Code-by-practice/learning-go-lang/graphs/contributors" target="_blank">contributors</a> for using and supporting learning-go-lang.
+We really appreciate all kind of contributions.
 
-To request a feature or you find any typo errors, enhancements or questions; please feel free to post it on following link, or vote for the ones that are already registered.
+Special thanks to [contributors](https://github.com/Code-by-practice/go-syntax-reference/graphs/contributors) for using and supporting Go Syntax Reference materials
 
-Tracking: [https://github.com/Code-by-practice/go-syntax-referenceissues](https://github.com/Code-by-practice/go-syntax-reference/issues)
+### Feel free to
+
+* Request a feature 
+* You find any typo errors, enhancements or questions
+* Vote for the ones that are already registered
+* Send the PR
 
 ## License
 
