@@ -12,6 +12,30 @@ A complete training kit on Go programming language syntax for beginners.
 * Session 5: Methods & Interface.
 * Session 6: Concurrency.
 
+## Commands
+
+Here are some of the commonly used `Go CLI` commands:
+
+Compiles and executes one or two files
+```
+go run <file-name-1>.go
+```
+
+Compiles a bunch of Go source code files
+```
+go build
+```
+
+Formats all the code in each file in the current directory
+```
+go fmt
+```
+
+More command help
+```
+go help
+```
+
 ## Author & Contributors
 
 We really appreciate all kind of contributions.
@@ -29,4 +53,4 @@ Special thanks to [contributors](https://github.com/Code-by-practice/go-syntax-r
 
 The MIT License (MIT); 
 
-Copyright (c) 2018 Ashwin Hegde
+Copyright (c) 2019 Ashwin Hegde
